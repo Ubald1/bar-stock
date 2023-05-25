@@ -1,0 +1,15 @@
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.csproj.AssemblyReference.cache
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.AssemblyInfo.cs
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\prove\Prove\Prove\bin\Debug\net6.0\Prove.exe
+C:\Users\cristian\source\repos\prove\Prove\Prove\bin\Debug\net6.0\Prove.deps.json
+C:\Users\cristian\source\repos\prove\Prove\Prove\bin\Debug\net6.0\Prove.runtimeconfig.json
+C:\Users\cristian\source\repos\prove\Prove\Prove\bin\Debug\net6.0\Prove.dll
+C:\Users\cristian\source\repos\prove\Prove\Prove\bin\Debug\net6.0\Prove.pdb
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.dll
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\refint\Prove.dll
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.pdb
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\Prove.genruntimeconfig.cache
+C:\Users\cristian\source\repos\prove\Prove\Prove\obj\Debug\net6.0\ref\Prove.dll
